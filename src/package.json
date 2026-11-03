@@ -1,0 +1,20 @@
+
+{
+  "name": "opslens-operational-data-inspector",
+  "version": "1.0.0",
+  "description": "A JavaScript toolkit for operational data analysis, maximum gap detection, and software version comparison.",
+  "main": "examples/demo.js",
+  "scripts": {
+    "start": "node examples/demo.js"
+  },
+  "keywords": [
+    "javascript",
+    "algorithms",
+    "data-analysis",
+    "bucket-analysis",
+    "performance-monitoring",
+    "version-comparison"
+  ],
+  "author": "Mir Hamza Rahman",
+  "license": "MIT"
+}
